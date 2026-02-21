@@ -1,0 +1,7 @@
+pandas
+gspread
+google-auth
+kiteconnect
+python-dotenv
+requests
+pytz
